@@ -3,7 +3,7 @@
 @Component
 export
 struct TestAPage {
-  @State message: string = 'TestAPage'
+  @State message: string = 'TestAPage111'
 
   build() {
     Row() {
