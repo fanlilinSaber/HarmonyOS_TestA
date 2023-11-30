@@ -22,6 +22,18 @@
           ]
         }
       ]
+    },
+    {
+      "name": "TestlibraryA",
+      "srcPath": "./TestlibraryA",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
     }
   ]
 }
