@@ -2,11 +2,11 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "This module template implements Category List functions."
+      "value": "该模板实现了类别列表的功能"
     },
     {
       "name": "ability_desc",
-      "value": "This ability loads CategoryListPage."
+      "value": "该Ability加载显示主Page的内容"
     },
     {
       "name": "ability_label",
@@ -18,19 +18,19 @@
     },
     {
       "name": "list_item_summary",
-      "value": "Right text"
+      "value": "右侧文本"
     },
     {
       "name": "page_title",
-      "value": "Title"
+      "value": "标题"
     },
     {
       "name": "sub_title",
-      "value": "Subtitle"
+      "value": "子标题"
     },
     {
       "name": "detail_default_title",
-      "value": "Default title"
+      "value": "默认标题"
     }
   ]
 }

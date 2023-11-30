@@ -2,7 +2,7 @@
   "module": {
     "name": "TestlibraryA",
     "type": "shared",
-    "description": "$string:shared_desc",
+    "description": "商品模块",
     "deviceTypes": [
       "phone",
       "tablet"
