@@ -7,6 +7,7 @@ import { DetailListComponent } from '../view/DetailListComponent';
  */
 @Entry
 @Component
+export
 struct DetailPage {
   private titleParam: Resource = $r('app.string.detail_default_title');
 

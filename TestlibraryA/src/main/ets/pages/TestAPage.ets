@@ -1,10 +1,9 @@
-import { CommonConstants } from '../common/constants/CommonConstants';
 
 @Entry
 @Component
 export
-struct TestA {
-  @State message: string = 'Test A'
+struct TestAPage {
+  @State message: string = 'TestAPage'
 
   build() {
     Row() {

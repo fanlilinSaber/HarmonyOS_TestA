@@ -11,6 +11,7 @@ import PageViewModel from '../viewmodel/PageViewModel';
  */
 @Entry
 @Component
+export
 struct CategoryListPage {
   build() {
     Column() {
