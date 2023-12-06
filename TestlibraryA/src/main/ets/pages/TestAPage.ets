@@ -1,4 +1,6 @@
 
+import { TestA, TestB } from './TestA'
+
 @Entry
 @Component
 export

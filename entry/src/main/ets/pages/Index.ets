@@ -1,4 +1,5 @@
 import router from '@ohos.router'
+import { TestA } from '@app/Testlibrary/src/main/ets/Index'
 
 @Entry
 @Component
@@ -16,6 +17,9 @@ struct Index {
               url: '@bundle:com.example.zjkgoddsapplication/TestlibraryA/ets/pages/CategoryListPage'
             })
           })
+        TestA()
+          .height('50')
+          .backgroundColor('red')
       }
       .width('100%')
     }

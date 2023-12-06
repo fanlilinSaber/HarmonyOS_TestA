@@ -1,10 +1,24 @@
 {
-  "name": "testlibrarya",
-  "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "types": "",
+  "keywords": [
+    "testlibrarya",
+    "OpenHarmony",
+    "HarmonyOS"
+  ],
+  "author": "fanlilin",
+  "description": "test library a",
+  "ohos": {
+    "org": "opensource"
+  },
   "main": "./src/main/ets/Index.ets",
-  "author": "",
-  "license": "Apache-2.0",
-  "dependencies": {
-  }
+  "repository": "https://github.com/fanlilinSaber/HarmonyOS_TestA.git",
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {},
+  "tags": [
+    "Tools"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "name": "@ohos/testlibrarya"
 }
