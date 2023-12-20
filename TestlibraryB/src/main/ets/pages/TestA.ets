@@ -4,7 +4,7 @@ import { CommonConstants } from '../common/constants/CommonConstants';
 @Component
 export
 struct TestA {
-  @State message: string = 'Test A'
+  @State message: string = 'Test A 2'
 
   build() {
     Row() {
