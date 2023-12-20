@@ -1,5 +1,8 @@
 import router from '@ohos.router'
-import { TestA } from '@app/Testlibrary/src/main/ets/Index'
+// import { TestA } from '@app/Testlibrary/src/main/ets/Index'
+// import { CategoryListPage } from '@app/Testlibrary/src/main/ets/pages/CategoryListPage'
+
+import { CategoryListPage } from  '@app/TestlibraryB'
 
 @Entry
 @Component
@@ -17,9 +20,10 @@ struct Index {
               url: '@bundle:com.example.zjkgoddsapplication/TestlibraryA/ets/pages/CategoryListPage'
             })
           })
-        TestA()
-          .height('50')
-          .backgroundColor('red')
+        // TestA()
+        //   .height('50')
+        //   .backgroundColor('red')
+        CategoryListPage()
       }
       .width('100%')
     }

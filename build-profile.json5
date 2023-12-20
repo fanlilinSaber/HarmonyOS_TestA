@@ -34,6 +34,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Stacilibrary",
+      "srcPath": "./Stacilibrary"
+    },
+    {
+      "name": "TestlibraryB",
+      "srcPath": "./TestlibraryB",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
     }
   ]
 }

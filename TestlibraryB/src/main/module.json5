@@ -1,8 +1,8 @@
 {
   "module": {
-    "name": "TestlibraryA",
+    "name": "TestlibraryB",
     "type": "shared",
-    "description": "测试模块",
+    "description": "测试模块b",
     "deviceTypes": [
       "phone",
       "tablet"

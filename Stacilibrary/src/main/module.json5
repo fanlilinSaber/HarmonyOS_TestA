@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "Stacilibrary",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
