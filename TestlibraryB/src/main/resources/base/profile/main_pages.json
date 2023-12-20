@@ -2,7 +2,7 @@
   "src": [
     "pages/CategoryListPage",
     "pages/DetailPage",
-    "pages/Index",
-    "pages/TestA"
+    "pages/TestA",
+    "pages/TestAPage"
   ]
 }
