@@ -12,7 +12,7 @@
   "dependencies": {
   },
   "files": [
-    "AppScope",
-    "entry"
+    "TestlibraryB",
+    "TestlibraryC"
   ]
 }
