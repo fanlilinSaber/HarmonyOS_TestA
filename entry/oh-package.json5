@@ -7,7 +7,8 @@
   "license": "",
   "dependencies": {
 //    "@app/Testlibrary": "file:../TestlibraryA"
-    "@app/TestlibraryB": "file:../TestlibraryB"
+    "@app/TestlibraryB": "file:../TestlibraryB",
+    "@app/TestlibraryC": "file:../TestlibraryC"
   }
 }
 

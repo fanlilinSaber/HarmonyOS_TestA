@@ -1,6 +1,6 @@
 {
   "module": {
-    "name": "Stacilibrary",
+    "name": "TestlibraryC",
     "type": "har",
     "deviceTypes": [
       "default",

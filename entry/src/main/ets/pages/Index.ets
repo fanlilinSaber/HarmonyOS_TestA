@@ -3,6 +3,7 @@ import router from '@ohos.router'
 // import { CategoryListPage } from '@app/Testlibrary/src/main/ets/pages/CategoryListPage'
 
 import { CategoryListPage } from  '@app/TestlibraryB'
+import { MainPage } from "@app/TestlibraryC"
 
 @Entry
 @Component
@@ -23,7 +24,8 @@ struct Index {
         // TestA()
         //   .height('50')
         //   .backgroundColor('red')
-        CategoryListPage()
+        // CategoryListPage()
+        MainPage()
       }
       .width('100%')
     }

@@ -36,10 +36,6 @@
       ]
     },
     {
-      "name": "Stacilibrary",
-      "srcPath": "./Stacilibrary"
-    },
-    {
       "name": "TestlibraryB",
       "srcPath": "./TestlibraryB",
       "targets": [
@@ -50,6 +46,10 @@
           ]
         }
       ]
+    },
+    {
+      "name": "TestlibraryC",
+      "srcPath": "./TestlibraryC"
     }
   ]
 }

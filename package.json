@@ -10,5 +10,9 @@
   "repository": {},
   "license": "ISC",
   "dependencies": {
-  }
+  },
+  "files": [
+    "AppScope",
+    "entry"
+  ]
 }

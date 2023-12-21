@@ -1,6 +1,6 @@
 @Component
 export struct MainPage {
-  @State message: string = 'Hello World'
+  @State message: string = '我是静态库'
 
   build() {
     Row() {
